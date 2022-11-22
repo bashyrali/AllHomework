@@ -1,0 +1,20 @@
+true && (false || (2 < 3))
+true && (false || true)
+true && (true)
+true
+Ответ:true
+(2 < 3) && (3 > 4) || true
+true && false || true
+false || true 
+true
+ответ:true
+!true && (!true || 100 != 5*2)
+false && (false || true)
+false && true
+false
+ответ:false
+(true == !false) || ((10 <= 10) && (null == false))
+true == true || (true && false)
+true || false
+true
+ответ:true

@@ -1,0 +1,8 @@
+{"books": [
+  {"id": 1, "name": "Book","author": "Author","available": true,"image": "https://cdn.f.kz/prod/1959/1958872_550.jpg"},
+  {"id": 2, "name": "Book2","author": "Author2","available": "true","image": "https://cdn.f.kz/prod/1077/1076642_550.jpg"},
+  {"id": 3, "name": "Book3","author": "Author3","available": "true", "image": "https://cdn.f.kz/prod/1539/1538269_550.jpg"},
+  {"id": 4, "name": "Book4","author": "Author4","available": "true", "image": "https://cdn.f.kz/prod/1351/1350872_550.jpg"},
+  {"id": 5, "name": "Book5","author": "Author5","available": "true", "image": "https://cdn.f.kz/prod/999/998789_550.jpg"},
+  {"id": 6, "name": "Book6","author": "Author6","available": "true","image": "https://cdn.f.kz/prod/869/868359_550.jpg"}
+]}

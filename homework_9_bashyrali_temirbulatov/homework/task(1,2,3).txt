@@ -1,0 +1,17 @@
+\\Задание 1\\
+mkdir project1\subproject1_1
+mkdir project1\subproject1_2
+mkdir project2\subproject2_1
+mkdir project2\subproject2_2
+\\Задание 2\\
+mkdir new_project
+mv '.\project1\subproject1_1' '.\new_project'
+mv '.\project1\subproject1_2' '.\new_project'
+rm project1
+\\Задание 3\\
+1.Нарезать картошку соломкой
+2.Взять сковородку
+3.Поставить сковороду на плиту
+4.Налить подсолнечное масло в сковороду
+5.Включить плиту
+6.Когда масло дойдет до температуры кипения добавить нарезаной картошки
